@@ -1,8 +1,4 @@
 soham loves anuragkartikey aloso lvoes anurag
 hello world this is for testing purpose
 another testing messgage
-<<<<<<< HEAD
 Hello this is another testing
-=======
-kasdfl;asjdf
->>>>>>> main
